@@ -1,0 +1,31 @@
+h1{
+    color:red;
+}
+h2{
+    color:green;
+}
+.odd{
+    color:whitesmoke
+}
+.even{
+    color:yellow;
+}
+
+
+#spl{
+    color:aqua;
+    background-color: rgb(1,75,75);
+    transition: 5sec;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 5px greenyellow;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/352096/pexels-photo-352096.jpeg?cs=srgb&dl=pexels-achim-bongard-352096.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+}
+p{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
