@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Borel', cursive;
+}
+#logo{
+    font-family: 'Borel', cursive;
+font-family: 'Lora', serif;
+font-family: 'Lumanosimo', cursive;
+}
+.carousel-item img{
+    width: 90%;
+    height: 85vh;
+    padding: 6px;
+}
